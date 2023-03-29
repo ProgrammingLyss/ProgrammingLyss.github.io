@@ -1,5 +1,8 @@
 # Alyssa Fasciano ePortfolio
 
+## Professional Self-Assessment
+
+
 ## [Code Review Video](https://youtu.be/02DJC1O0cGg)
 At the start of this course, I conducted an informal code review of the 3 artifacts I chose for enhancement. This code review analyzes the code of each artifact in its current condition and discusses the plan for enhancement based off identified areas of improvement. 
 
@@ -36,3 +39,5 @@ Yes, I did meet the course objectives I initially planned to meet with this enha
 ### IV.	Reflect on the process of enhancing and/or modifying the artifact. What did you learn as you were creating it and improving it? What challenges did you face? 
 
 While creating the application I learned all about using JUnit testing to ensure complete application functionality. The initial purpose of this artifact was to ensure the functionality of the mobile application solely through JUnit testing, meaning that the JUnit tests are the only executable part of the application. Learning how to craft JUnit tests that ensure the complete functionality of an application was a great learning experience, and a valuable skill that I’ll be able to use in my future career. Thankfully, I had no major challenges while creating and enhancing this artifact. 
+
+## Databases Artifact - Dashboard Application
