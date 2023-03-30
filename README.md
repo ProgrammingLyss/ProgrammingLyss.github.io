@@ -17,7 +17,7 @@ I selected this artifact to be included in my ePortfolio as it demonstrates my u
 
 ### III. Did you meet the course objectives you planned to meet with this enhancement in Module One? Do you have any updates to your outcome-coverage plans?
 
-Yes, I did meet the course objectives I initially planned to meet with this enhancement in Module One. My planned enhancement for this artifact was to implement 3 new calculator functions, additional JUnit tests, and additional comments. The completion of my planned enhancement demonstrates my achievement of Course Outcome 4: Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals. With that in mind, I have no update for my outcome-coverage plan.
+Yes, I did meet the course objectives I initially planned to meet with this enhancement in Module One. My planned enhancement for this artifact was to implement 3 new calculator functions, additional JUnit tests, and additional comments. The completion of my planned enhancement demonstrates my mastery of Course Outcome 4: Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals. With that in mind, I have no update for my outcome-coverage plan.
 
 ### IV. Reflect on the process of enhancing and/or modifying the artifact. What did you learn as you were creating it and improving it? What challenges did you face?
 
@@ -34,7 +34,7 @@ I selected this artifact to be included in my ePortfolio because it demonstrates
 
 ### III.	Did you meet the course objectives you planned to meet with this enhancement in Module One? Do you have any updates to your outcome-coverage plans?
 
-Yes, I did meet the course objectives I initially planned to meet with this enhancement in Module One. My planned enhancement for this artifact was to increase the coverage of the JUnit tests and add comments throughout the code. The completion of my planned enhancement demonstrates my achievement of Course Outcome 3: Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution, while managing the trade-offs involved in design choices. With that in mind, I have no update for my outcome-coverage plan. 
+Yes, I did meet the course objectives I initially planned to meet with this enhancement in Module One. My planned enhancement for this artifact was to increase the coverage of the JUnit tests and add comments throughout the code. The completion of my planned enhancement demonstrates my mastery of Course Outcome 3: Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution, while managing the trade-offs involved in design choices. With that in mind, I have no update for my outcome-coverage plan. 
 
 ### IV.	Reflect on the process of enhancing and/or modifying the artifact. What did you learn as you were creating it and improving it? What challenges did you face? 
 
@@ -51,7 +51,7 @@ I selected this artifact to be included in my ePortfolio because it demonstrates
 
 ### III.	Did you meet the course objectives you planned to meet with this enhancement in Module One? Do you have any updates to your outcome-coverage plans?
 
-Yes, I did meet the course objectives I initially planned to meet with this enhancement in Module One. My planned enhancement for this artifact was to implement user authentication and clean up the comments throughout the code. The completion of my planned enhancement demonstrates my achievement of Course Outcome 5: Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources. With that in mind, I have no update for my outcome-coverage plan. 
+Yes, I did meet the course objectives I initially planned to meet with this enhancement in Module One. My planned enhancement for this artifact was to implement user authentication and clean up the comments throughout the code. The completion of my planned enhancement demonstrates my mastery of Course Outcome 5: Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources. With that in mind, I have no update for my outcome-coverage plan. 
 
 ### IV.	Reflect on the process of enhancing and/or modifying the artifact. What did you learn as you were creating it and improving it? What challenges did you face? 
 
