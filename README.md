@@ -57,5 +57,5 @@ Yes, I did meet the course objectives I initially planned to meet with this enha
 
 While creating this artifact, I learned all about conducting full stack development of an application. I learned how to connect a MongoDB database to a Python dashboard application, which was a great learning experience for me as I had never conducted end-to-end development of an application before. The only challenge I faced with this artifact was the geolocation chart. I did investigate this issue when the artifact was originally created and while I was working on my planned enhancements, but ultimately I was unable to figure out why the chart does not appear on the dashboard with everything else. Aside from that, I had no issues while creating and enhancing this artifact. 
 
-## Dashboard Application Video Walkthrough
-This is a quick video walkthrough of my dashboard application so users can see the completed enhancement in action. 
+## [Dashboard Application Video Walkthrough](https://youtu.be/1o2vY6bjCAk)
+This is a quick video walkthrough of my dashboard application so users can see the completed enhancement in action.
