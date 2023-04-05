@@ -1,12 +1,12 @@
 # Alyssa Fasciano ePortfolio
 
 ## Table of Contents
-- [Professional Self-Assessment](https://github.com/ProgrammingLyss/ProgrammingLyss.github.io#professional-self-assessment)
-- [Code Review Video](https://github.com/ProgrammingLyss/ProgrammingLyss.github.io#code-review-video)
-- [Software Design/Engineering Artifact - Simple Calculator Application](https://github.com/ProgrammingLyss/ProgrammingLyss.github.io#software-designengineering-artifact---simple-calculator-application)
-- [Algorithms and Data Structures Artifact - Mobile Application](https://github.com/ProgrammingLyss/ProgrammingLyss.github.io#algorithms-and-data-structures-artifact---mobile-application)
-- [Databases Artifact - Dashboard Application](https://github.com/ProgrammingLyss/ProgrammingLyss.github.io#databases-artifact---dashboard-application)
-- [Dashboard Application Video Walkthrough](https://github.com/ProgrammingLyss/ProgrammingLyss.github.io#dashboard-application-video-walkthrough)
+- Professional Self-Assessment
+- Code Review Video
+- Software Design/Engineering Artifact - Simple Calculator Application
+- Algorithms and Data Structures Artifact - Mobile Application
+- Databases Artifact - Dashboard Application
+- Dashboard Application Video Walkthrough
 
 ## Professional Self-Assessment
 
