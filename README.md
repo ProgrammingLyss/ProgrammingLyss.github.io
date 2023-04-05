@@ -1,5 +1,13 @@
 # Alyssa Fasciano ePortfolio
 
+## Table of Contents
+- Professional Self-Assessment
+- Code Review Video
+- Software Design/Engineering Artifact - Simple Calculator Application
+- Algorithms and Data Structures Artifact - Mobile Application
+- Databases Artifact - Dashboard Application
+- Dashboard Application Video Walkthrough
+
 ## Professional Self-Assessment
 
 
