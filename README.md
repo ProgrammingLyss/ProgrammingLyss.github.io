@@ -12,7 +12,7 @@
 
 
 ## [Code Review Video](https://youtu.be/02DJC1O0cGg)
-At the start of this course, I conducted an informal code review of the 3 artifacts I chose for enhancement. This code review analyzes the code of each artifact in its current condition and discusses the plan for enhancement based off identified areas of improvement. 
+At the start of this course, I conducted an informal code review of the 3 artifacts I chose for enhancement. This code review analyzes the code of each artifact in its current condition and discusses the plan for enhancement based off identified areas of improvement. This code review video also demonstrates my mastery of Course Outcome 2: Design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts.
 
 ## [Software Design/Engineering Artifact - Simple Calculator Application](https://github.com/ProgrammingLyss/ProgrammingLyss.github.io/tree/main/Simple%20Calculator%20Application)
 ### I. Briefly describe the artifact. What is it? When was it created?
