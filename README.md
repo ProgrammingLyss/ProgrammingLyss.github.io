@@ -2,7 +2,7 @@
 
 ## Table of Contents
 - Professional Self-Assessment
-- Code Review Video
+- [Code Review Video](https://github.com/ProgrammingLyss/ProgrammingLyss.github.io#code-review-video)
 - Software Design/Engineering Artifact - Simple Calculator Application
 - Algorithms and Data Structures Artifact - Mobile Application
 - Databases Artifact - Dashboard Application
