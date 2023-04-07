@@ -16,8 +16,8 @@ At the start of this course, I conducted an informal code review of the 3 artifa
 
 ## Software Design/Engineering Artifact - Simple Calculator Application
 
-[Before Enhancement](https://github.com/ProgrammingLyss/ProgrammingLyss.github.io/tree/main/Unenhanced%20Simple%20Calculator%20Application)
-[After Enhancement](https://github.com/ProgrammingLyss/ProgrammingLyss.github.io/tree/main/Simple%20Calculator%20Application)
+[Simple Calculator Before Enhancement](https://github.com/ProgrammingLyss/ProgrammingLyss.github.io/tree/main/Unenhanced%20Simple%20Calculator%20Application)
+[Simple Calculator After Enhancement](https://github.com/ProgrammingLyss/ProgrammingLyss.github.io/tree/main/Simple%20Calculator%20Application)
 
 ### I. Briefly describe the artifact. What is it? When was it created?
 
@@ -37,8 +37,9 @@ While creating and enhancing this artifact I learned all about working with a SW
 
 ## Algorithms and Data Structures Artifact - Mobile Application
 
-[Before Enhancement](https://github.com/ProgrammingLyss/ProgrammingLyss.github.io/tree/main/Unenhanced%20Mobile%20Application)
-[After Enhancement](https://github.com/ProgrammingLyss/ProgrammingLyss.github.io/tree/main/Mobile%20Application)
+[Mobile Application Before Enhancement]
+(https://github.com/ProgrammingLyss/ProgrammingLyss.github.io/tree/main/Unenhanced%20Mobile%20Application)
+[Mobile Application After Enhancement](https://github.com/ProgrammingLyss/ProgrammingLyss.github.io/tree/main/Mobile%20Application)
 
 ### I.	Briefly describe the artifact. What is it? When was it created?
 
@@ -58,8 +59,9 @@ While creating the application I learned all about using JUnit testing to ensure
 
 ## Databases Artifact - Dashboard Application
 
-[Before Enhancement](https://github.com/ProgrammingLyss/ProgrammingLyss.github.io/tree/main/Unenhanced%20Dashboard%20Application)
-[After Enhancement](https://github.com/ProgrammingLyss/ProgrammingLyss.github.io/tree/main/Dashboard%20Application)
+[Dashboard Application Before Enhancement]
+(https://github.com/ProgrammingLyss/ProgrammingLyss.github.io/tree/main/Unenhanced%20Dashboard%20Application)
+[Dashboard Application After Enhancement](https://github.com/ProgrammingLyss/ProgrammingLyss.github.io/tree/main/Dashboard%20Application)
 
 ### I.	Briefly describe the artifact. What is it? When was it created?
 
