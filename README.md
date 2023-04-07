@@ -16,9 +16,9 @@ At the start of this course, I conducted an informal code review of the 3 artifa
 
 ## Software Design/Engineering Artifact - Simple Calculator Application
 
-[Simple Calculator Before Enhancement](https://github.com/ProgrammingLyss/ProgrammingLyss.github.io/tree/main/Unenhanced%20Simple%20Calculator%20Application)
+[Simple Calculator Application Before Enhancement](https://github.com/ProgrammingLyss/ProgrammingLyss.github.io/tree/main/Unenhanced%20Simple%20Calculator%20Application)
 
-[Simple Calculator After Enhancement](https://github.com/ProgrammingLyss/ProgrammingLyss.github.io/tree/main/Simple%20Calculator%20Application)
+[Simple Calculator Application After Enhancement](https://github.com/ProgrammingLyss/ProgrammingLyss.github.io/tree/main/Simple%20Calculator%20Application)
 
 ### I. Briefly describe the artifact. What is it? When was it created?
 
