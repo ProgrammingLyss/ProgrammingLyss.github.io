@@ -29,7 +29,7 @@ My chosen artifact for the Software Design/Engineering category is a simple calc
 
 ### II. Justify the inclusion of the artifact in your ePortfolio. Why did you select this item? What specific components of the artifact showcase your skills and abilities in software development? How was the artifact improved?
 
-I selected this artifact to be included in my ePortfolio as it demonstrates my understanding of the Java programming language at a high degree, in addition to my ability to work with a SWT user interface. The user interface itself demonstrates my ability to implement arithmetic operations, as well as my ability to work with event loops and event listeners. This artifact was improved by implementing the multiply, divide, and percent functionality into the simple calculator. It was also improved by the addition of JUnit tests and comments justifying the implementation of each new calculator function. 
+I selected this artifact to be included in my ePortfolio as it demonstrates my understanding of the Java programming language at a high degree, in addition to my ability to work with a SWT user interface. The user interface itself demonstrates my ability to implement arithmetic operations, as well as my ability to work with event loops and event listeners. This artifact was improved by implementing the multiply, divide, and percent functionality into the simple calculator. It was also improved by the addition of various JUnit tests and comments justifying the implementation of each new calculator function. 
 
 ### III. Did you meet the course objectives you planned to meet with this enhancement in Module One? Do you have any updates to your outcome-coverage plans?
 
