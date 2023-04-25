@@ -1,4 +1,4 @@
-# Alyssa Fasciano ePortfolio
+# ePortfolio
 
 ## Table of Contents
 - Professional Self-Assessment
@@ -14,7 +14,7 @@ I have been in the Computer Science program at SNHU for four and a half years. W
 
 The artifacts featured in this ePortfolio were specifically chosen to demonstrate the full range of my Computer Science talents and abilities. The Software Design/Engineering artifact is a simple calculator application that demonstrates my ability to conduct front-end development with Java. The Algorithms and Data Structures artifact is a mobile application that demonstrates my ability to conduct front-end development and front-end testing with Java. The Databases artifact is a dashboard application that demonstrates my ability to conduct full-stack development with Python, Jupyter Notebook, and MongoDB. This professional self-assessment demonstrates my mastery of Course Outcome 1: Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision-making in the field of computer science.
 
-## [Code Review Video](https://youtu.be/02DJC1O0cGg)
+## [Code Review Video]
 At the start of this course, I conducted an informal code review of the 3 artifacts I chose for enhancement. This code review analyzes the code of each artifact in its current condition and discusses the plan for enhancement based off identified areas of improvement. This code review video also demonstrates my mastery of Course Outcome 2: Design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts.
 
 ## Software Design/Engineering Artifact - Simple Calculator Application
@@ -83,5 +83,5 @@ Yes, I did meet the course objectives I initially planned to meet with this enha
 
 While creating this artifact, I learned all about conducting full stack development of an application. I learned how to connect a MongoDB database to a Python dashboard application, which was a great learning experience for me as I had never conducted end-to-end development of an application before. The only challenge I faced with this artifact was the geolocation chart. I did investigate this issue when the artifact was originally created and while I was working on my planned enhancements, but ultimately I was unable to figure out why the chart does not appear on the dashboard with everything else. Aside from that, I had no issues while creating and enhancing this artifact. 
 
-## [Dashboard Application Video Walkthrough](https://youtu.be/1o2vY6bjCAk)
+## [Dashboard Application Video Walkthrough]
 This is a quick video walkthrough of my dashboard application so users can see the completed enhancement in action. In addition to the code review video, this video walkthrough also demonstrates my mastery of Course Outcome 2: Design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts.
